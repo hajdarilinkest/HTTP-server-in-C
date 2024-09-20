@@ -1,1 +1,1 @@
-# HTTP-server-in-C
+Linux-based HTTP server, programmed in C.
